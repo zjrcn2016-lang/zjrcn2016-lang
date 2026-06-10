@@ -1,14 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-```
-███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗     
-████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║     
-██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║     
-██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║     
-██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗
-╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=zjrcn2016-lang&fontSize=60&fontColor=00fff7&animation=twinkling&fontAlignY=35&desc=Vibe%20Coder%20%7C%20AI%20Explorer&descSize=18&descAlignY=55&descColor=ff00a0)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=%3E+Vibe+Coder+%7C+AI+Explorer;%3E+Cyberpunk+%2B+Anime+%3D+%E2%9C%93;%3E+Building+the+future%2C+one+prompt+at+a+time;%3E+git+commit+-m+%22vibing+in+the+matrix%22)](https://git.io/typing-svg)
@@ -120,5 +113,7 @@
 <div align="center">
 
 `[ SYSTEM ONLINE ]` · `[ AI LOADING... ▓▓▓▓▓▓▓░░░ 70% ]` · `[ VIBE: MAX ]`
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
