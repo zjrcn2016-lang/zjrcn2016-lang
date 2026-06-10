@@ -77,7 +77,7 @@
 
 ### `// ACTIVITY.LOG`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zjrcn2016-lang&bg_color=0d0d0d&color=00fff7&line=ff00a0&point=9d00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zjrcn2016-lang&bg_color=0d0d0d&color=00fff7&line=ff00a0&point=9d00ff&area=true&hide_border=true&theme=react-dark)](https://github.com/zjrcn2016-lang)
 
 </div>
 
