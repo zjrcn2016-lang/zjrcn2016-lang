@@ -1,12 +1,12 @@
 <!-- HEADER -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=zjrcn2016-lang&fontSize=60&fontColor=00fff7&animation=twinkling&fontAlignY=35&desc=Vibe%20Coder%20%7C%20AI%20Explorer&descSize=18&descAlignY=55&descColor=ff00a0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=200&section=header&fontSize=60&fontColor=b700ff&animation=twinkling&fontAlignY=35&desc=Vibe%20Coder%20%7C%20AI%20Explorer&descSize=18&descAlignY=55&descColor=e040fb)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=%3E+Vibe+Coder+%7C+AI+Explorer;%3E+Cyberpunk+%2B+Anime+%3D+%E2%9C%93;%3E+Building+the+future%2C+one+prompt+at+a+time;%3E+git+commit+-m+%22vibing+in+the+matrix%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=b700ff&center=true&vCenter=true&width=600&lines=%3E+Vibe+Coder+%7C+AI+Explorer;%3E+Cyberpunk+%2B+Anime+%3D+%E2%9C%93;%3E+Building+the+future%2C+one+prompt+at+a+time;%3E+git+commit+-m+%22vibing+in+the+matrix%22)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=zjrcn2016-lang&color=00fff7&style=flat-square&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=zjrcn2016-lang&color=b700ff&style=flat-square&label=VISITORS" />
 
 </div>
 
@@ -42,14 +42,14 @@
 <!-- TECH STACK -->
 <div align="center">
 
-![tech-stack](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=TECH%20STACK&fontSize=18&fontColor=00fff7&animation=fadeIn)
+![tech-stack](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=40&text=TECH%20STACK&fontSize=18&fontColor=b700ff&animation=fadeIn)
 
-![Python](https://img.shields.io/badge/Python-%2300fff7?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23ff00a0?style=for-the-badge&logo=javascript&logoColor=black)
-![AI](https://img.shields.io/badge/AI%20%26%20LLMs-%239d00ff?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-%2300fff7?style=for-the-badge&logo=anthropic&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23ff00a0?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%239d00ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23b700ff?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%237b00d4?style=for-the-badge&logo=javascript&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20%26%20LLMs-%23e040fb?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%23b700ff?style=for-the-badge&logo=anthropic&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%237b00d4?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23e040fb?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -58,12 +58,12 @@
 <!-- GITHUB STATS -->
 <div align="center">
 
-![stats](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=STATS.EXE&fontSize=18&fontColor=00fff7&animation=fadeIn)
+![stats](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=40&text=STATS.EXE&fontSize=18&fontColor=b700ff&animation=fadeIn)
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zjrcn2016-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=ff00a0&text_color=ffffff&border_color=00fff7" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjrcn2016-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff7&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zjrcn2016-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=b700ff&icon_color=e040fb&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjrcn2016-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=b700ff&text_color=ffffff" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zjrcn2016-lang&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=00fff7&ring=ff00a0&fire=ff00a0&currStreakLabel=00fff7&sideLabels=00fff7&dates=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zjrcn2016-lang&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=b700ff&ring=e040fb&fire=e040fb&currStreakLabel=b700ff&sideLabels=b700ff&dates=ffffff" />
 
 </div>
 
@@ -72,9 +72,9 @@
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
-![activity-log](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=ACTIVITY%20LOG&fontSize=18&fontColor=00fff7&animation=fadeIn)
+![activity-log](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,19,20&height=40&text=ACTIVITY%20LOG&fontSize=18&fontColor=b700ff&animation=fadeIn)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zjrcn2016-lang&bg_color=0d0d0d&color=00fff7&line=ff00a0&point=9d00ff&area=true&hide_border=true&theme=react-dark)](https://github.com/zjrcn2016-lang)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zjrcn2016-lang&bg_color=0d0d0d&color=b700ff&line=e040fb&point=7b00d4&area=true&hide_border=true&theme=react-dark)](https://github.com/zjrcn2016-lang)
 
 </div>
 
@@ -112,8 +112,8 @@
 <!-- FOOTER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE+%E2%9C%93;VIBE+%3A+MAX+%E2%9C%93;AI+LOADING+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+70%25...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=b700ff&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE+%E2%9C%93;VIBE+%3A+MAX+%E2%9C%93;AI+LOADING+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+70%25...)](https://git.io/typing-svg)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep%20Vibing&fontSize=24&fontColor=ff00a0&animation=twinkling&fontAlignY=70)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=120&section=footer&text=Keep%20Vibing&fontSize=24&fontColor=e040fb&animation=twinkling&fontAlignY=70)
 
 </div>
