@@ -58,7 +58,7 @@
 <!-- GITHUB STATS -->
 <div align="center">
 
-### `// STATS.EXE`
+![stats](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=STATS.EXE&fontSize=18&fontColor=00fff7&animation=fadeIn)
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=zjrcn2016-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff7&icon_color=ff00a0&text_color=ffffff&border_color=00fff7" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjrcn2016-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff7&text_color=ffffff" />
