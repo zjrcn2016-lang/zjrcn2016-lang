@@ -25,7 +25,7 @@
 ```yaml
 > whoami
 
-  handle   : Sako-zjr
+  handle   : zjrcn2016-lang-zjr
   class    : Vibe Coder / AI Explorer
   location : The Net 🌐
   status   :  Learning AI in progress
