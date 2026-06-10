@@ -20,24 +20,28 @@
 ---
 
 <!-- ABOUT -->
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="180" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" />
 
-```yaml
-> whoami
-
-  handle   : zjrcn2016-lang-zjr
-  class    : Vibe Coder / AI Explorer
-  location : The Net 🌐
-  status   :  Learning AI in progress
-  
-  interests:
-    - 🤖 AI / LLMs / Prompt Engineering
-    - 🎮 Vibe Coding
-    
-  currently_learning:
-    - Large Language Models
-    - AI Agents & RAG
-    - Vibe-driven development
+```
+╔══════════════════════════════════════════╗
+║          CHARACTER PROFILE               ║
+╠══════════════════════════════════════════╣
+║  Name    : zjrcn2016-lang-zjr            ║
+║  Class   : Vibe Coder / AI Explorer      ║
+║  World   : The Net                       ║
+║  Status  : [ ACTIVE ] Learning AI        ║
+╠══════════════════════════════════════════╣
+║  SKILLS                                  ║
+║  ├─ AI & LLMs          ████████░░  80%   ║
+║  ├─ Vibe Coding        █████████░  90%   ║
+║  ├─ Prompt Engineering ███████░░░  70%   ║
+║  └─ RAG & Agents       █████░░░░░  50%   ║
+╠══════════════════════════════════════════╣
+║  QUESTS IN PROGRESS                      ║
+║  ▸ Master Large Language Models          ║
+║  ▸ Build AI Agents                       ║
+║  ▸ Level up Vibe-driven development      ║
+╚══════════════════════════════════════════╝
 ```
 
 ---
@@ -79,6 +83,14 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zjrcn2016-lang&bg_color=0d0d0d&color=00fff7&line=ff00a0&point=9d00ff&area=true&hide_border=true&theme=react-dark)](https://github.com/zjrcn2016-lang)
 
+</div>
+
+---
+
+<!-- ANIME BANNER -->
+<div align="center">
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="280" />
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="280" />
 </div>
 
 ---
