@@ -42,14 +42,14 @@
 <!-- TECH STACK -->
 <div align="center">
 
-### `// TECH.STACK`
+![tech-stack](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=TECH%20STACK&fontSize=18&fontColor=00fff7&animation=fadeIn)
 
-![Python](https://img.shields.io/badge/Python-%2300fff7?style=flat-square&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23ff00a0?style=flat-square&logo=javascript&logoColor=black)
-![AI](https://img.shields.io/badge/AI%20%26%20LLMs-%239d00ff?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-%2300fff7?style=flat-square&logo=anthropic&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23ff00a0?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%239d00ff?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2300fff7?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23ff00a0?style=for-the-badge&logo=javascript&logoColor=black)
+![AI](https://img.shields.io/badge/AI%20%26%20LLMs-%239d00ff?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-%2300fff7?style=for-the-badge&logo=anthropic&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23ff00a0?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%239d00ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -72,7 +72,7 @@
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
-### `// ACTIVITY.LOG`
+![activity-log](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&text=ACTIVITY%20LOG&fontSize=18&fontColor=00fff7&animation=fadeIn)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zjrcn2016-lang&bg_color=0d0d0d&color=00fff7&line=ff00a0&point=9d00ff&area=true&hide_border=true&theme=react-dark)](https://github.com/zjrcn2016-lang)
 
@@ -112,8 +112,8 @@
 <!-- FOOTER -->
 <div align="center">
 
-`[ SYSTEM ONLINE ]` · `[ AI LOADING... ▓▓▓▓▓▓▓░░░ 70% ]` · `[ VIBE: MAX ]`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE+%E2%9C%93;VIBE+%3A+MAX+%E2%9C%93;AI+LOADING+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%91+70%25...)](https://git.io/typing-svg)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Keep%20Vibing&fontSize=24&fontColor=ff00a0&animation=twinkling&fontAlignY=70)
 
 </div>
