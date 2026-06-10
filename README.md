@@ -82,7 +82,7 @@
 
 <!-- ANIME BANNER -->
 <div align="center">
-<img src="https://media1.giphy.com/media/9YO1Zv9rPAGQg3bYLY/giphy.gif" width="280" height="180" />
+<img src="https://media0.giphy.com/media/Ozf4qM5aX1qUqwtmFF/giphy.gif" width="280" height="180" />
 <img src="https://media.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif" width="280" height="180" />
 </div>
 
