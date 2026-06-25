@@ -25,12 +25,16 @@
 ║  Status  : [ ACTIVE ] Learning AI        ║
 ╠══════════════════════════════════════════╣
 ║  SKILLS                                  ║
-║  ├─ AI & LLMs          ████████░░  80%   ║
 ║  ├─ Vibe Coding        █████████░  90%   ║
+║  ├─ HTML               ████████░░  85%   ║
+║  ├─ AI & LLMs          ████████░░  80%   ║
+║  ├─ Python             ███████░░░  75%   ║
 ║  ├─ Prompt Engineering ███████░░░  70%   ║
+║  ├─ CSS                ███████░░░  70%   ║
 ║  └─ RAG & Agents       █████░░░░░  50%   ║
 ╠══════════════════════════════════════════╣
 ║  QUESTS IN PROGRESS                      ║
+║  ▸ Learning Claude Code                  ║
 ║  ▸ Master Large Language Models          ║
 ║  ▸ Build AI Agents                       ║
 ║  ▸ Level up Vibe-driven development      ║
